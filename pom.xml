@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pratititech</groupId>
-	<artifactId>praedge</artifactId>
+	<artifactId>DAEngine</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PraEdgeNew</name>
-	<description>PraEdge - IoT Gateay from Pratiti</description>
+	<description>DAEnginer - Data Acquisition Enginer</description>
 
 	<properties>
 		<java.version>1.8</java.version>
