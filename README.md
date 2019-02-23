@@ -1,5 +1,7 @@
 # DAEngine
 Data Acquistion Engine for PraEdge
-  OPC UA Support
-  MODBUS TCP Support
+  a) OPC UA Support
+  b) MODBUS TCP Support
+  c) FTP - TODO
+  d) REST - TODO
 
