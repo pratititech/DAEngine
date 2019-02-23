@@ -1,13 +1,13 @@
-package com.pratititech.praedge;
+package com.pratititech.daengine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PraEdgeNewApplication {
+public class DAEngineApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PraEdgeNewApplication.class, args);
+		SpringApplication.run(DAEngineApplication.class, args);
 	}
 
 }

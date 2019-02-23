@@ -1,4 +1,4 @@
-package com.pratititech.praedge.modbustcp;
+package com.pratititech.daengine.modbustcp;
 
 import java.net.*;
 import net.wimpi.modbus.*;

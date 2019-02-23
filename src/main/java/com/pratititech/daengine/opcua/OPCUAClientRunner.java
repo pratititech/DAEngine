@@ -1,4 +1,4 @@
-package com.pratititech.praedge.opcua;
+package com.pratititech.daengine.opcua;
 
 import java.io.File;
 import java.security.Security;
